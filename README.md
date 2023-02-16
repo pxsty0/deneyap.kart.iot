@@ -4,4 +4,4 @@
           öğrenebilirsiniz. Uygulama üzerinden uzaktan bağlantı ile evinizin
           kapısını, klimasını, kombisini ve daha bir çok elektronik eşyanızı
           kontrol edebilirsiniz.
-          Tamamiyle açık kaynak yazılımlar kullanılarak Mustafa "pxsty" tarafından geliştirilmiştir
+          Tamamıyla açık kaynak yazılımlar kullanılarak Mustafa "pxsty" tarafından geliştirilmiştir
