@@ -5,3 +5,4 @@
           kapısını, klimasını, kombisini ve daha bir çok elektronik eşyanızı
           kontrol edebilirsiniz.
           Tamamıyla açık kaynak yazılımlar kullanılarak Mustafa "pxsty" tarafından geliştirilmiştir
+NOT : Mobil Uygulama Görselleri Yakın da eklenecektir
